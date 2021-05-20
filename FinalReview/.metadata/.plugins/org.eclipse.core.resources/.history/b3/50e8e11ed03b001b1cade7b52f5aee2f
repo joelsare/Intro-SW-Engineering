@@ -1,0 +1,9 @@
+
+public class ComputerTest {
+
+	public static void main(String[] args) {
+		Computer laptop = new Computer("Intel core i7", "Windows", "15.6", "Silver", 8, 256);
+
+	}
+
+}

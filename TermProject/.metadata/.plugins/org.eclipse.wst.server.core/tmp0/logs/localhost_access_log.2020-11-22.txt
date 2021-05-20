@@ -1,0 +1,5 @@
+127.0.0.1 - - [22/Nov/2020:13:51:20 -0600] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [22/Nov/2020:13:51:22 -0600] "GET /JojoShack/search.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2020:13:51:30 -0600] "GET /JojoShack/search.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [22/Nov/2020:13:51:30 -0600] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 1068
+0:0:0:0:0:0:0:1 - - [22/Nov/2020:13:51:30 -0600] "GET /apple-touch-icon.png HTTP/1.1" 404 1056

@@ -1,0 +1,55 @@
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+@WebServlet("/MyServletSare")
+public class MyServlet0921Sare extends HttpServlet {
+   private static final long serialVersionUID = 1L;
+   
+   public MyServlet0921Sare() {
+      super();
+   }
+
+   protected void doGet(HttpServletRequest request, HttpServletResponse response) //
+         throws ServletException, IOException {
+      response.setContentType("text/html");
+      String filename = "/Users/joel/Downloads/4830/workspace4830/workspace48300921-q1-sare/webproject48300921-q1-sare/src/input.csv";
+      List<String> contents = UtilFile.readFile(filename);
+      for (int i = 0; i < contents.size(); i++)
+      {
+    	  String s = contents.get(i);
+	      response.getWriter().append(s);
+      }
+      String userName = request.getParameter("userName");
+      String email = request.getParameter("email");
+      String phone = request.getParameter("phone");
+
+      Connection connection = null;
+      String insertSql = " INSERT INTO myTable (id, FIRST_NAME, LAST_NAME, PHONE, EMAIL) values (default, ?, ?, ?)";
+
+      try {
+         DBConnection.getDBConnection();
+         connection = DBConnection.connection;
+         PreparedStatement preparedStmt = connection.prepareStatement(insertSql);
+         preparedStmt.setString(1, userName);
+         preparedStmt.setString(2, email);
+         preparedStmt.setString(3, phone);
+         preparedStmt.execute();
+         connection.close();
+      } catch (Exception e) {
+         e.printStackTrace();
+      }
+   }
+
+   protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+      doGet(request, response);
+   }
+}

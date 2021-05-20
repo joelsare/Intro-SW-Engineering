@@ -1,0 +1,10 @@
+
+public class DatabaseExecutionProxy implements IDatabaseExecution {
+
+	@Override
+	public void executeQuery(String query) throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}

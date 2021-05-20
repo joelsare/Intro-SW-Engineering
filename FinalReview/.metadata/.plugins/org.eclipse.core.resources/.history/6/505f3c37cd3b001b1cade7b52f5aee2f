@@ -1,0 +1,22 @@
+
+public class Observer implements IObserver {
+
+	@Override
+	public void update() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void subscribeChannel(ISubject subject) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void unsubChannel(ISubject subject) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

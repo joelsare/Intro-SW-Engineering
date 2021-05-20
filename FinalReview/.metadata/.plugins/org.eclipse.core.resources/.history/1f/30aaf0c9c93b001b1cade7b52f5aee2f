@@ -1,0 +1,23 @@
+
+public class DatabaseExecutionProxy implements IDatabaseExecution {
+
+	DatabaseExecution dbquery;
+	
+	boolean adminFlag = false;
+	
+	public DatabaseExecutionProxy(String username, String password) {
+		if(username.equalsIgnoreCase("admin") && password.equalsIgnoreCase("1234")) {
+			adminFlag = true;
+		}
+		
+		dbquery = new DatabaseExecution();
+		
+	}
+
+	public void executeQuery(String query) throws Exception {
+		
+		
+		
+	}
+
+}

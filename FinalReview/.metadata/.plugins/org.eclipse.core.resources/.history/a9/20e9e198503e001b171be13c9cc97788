@@ -1,0 +1,7 @@
+
+public class Program {
+	System.out.println("[DBG] Convert a document to two different formats:"); String text = "NAME:customer1,ADDRESS:address1,PHONE:phone1";
+	XMLBuilder xmlBuilder = new XMLBuilder();
+	DocumentReader docReader = new DocumentReader(xmlBuilder); docReader.build(text);
+	System.out.println("\tXML format: " + docReader.getResult());
+}

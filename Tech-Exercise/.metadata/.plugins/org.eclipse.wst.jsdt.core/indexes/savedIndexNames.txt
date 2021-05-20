@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/joel/Downloads/4830/workspace4830/Tech-Exercise/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3292199505.index
+947608770.index
+3808905369.index
+3492747775.index
+2793306472.index
+1784772519.index
+3420846612.index

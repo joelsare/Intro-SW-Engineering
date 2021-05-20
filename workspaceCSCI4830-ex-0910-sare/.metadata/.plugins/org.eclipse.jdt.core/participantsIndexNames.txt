@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+/Users/joel/Downloads/4830/workspace4830/workspaceCSCI4830-ex-0910-sare/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3074678172.index
+/webproject/src
+/Users/joel/Downloads/4830/workspace4830/workspaceCSCI4830-ex-0910-sare/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1357528314.index
+/webproject-ex-0910-sare/src
+/Users/joel/Downloads/4830/workspace4830/workspaceCSCI4830-ex-0910-sare/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/602020661.index
+/webproject-ex-0914-sare/src

@@ -1,0 +1,7 @@
+Emma, Smith, 402-111-1111, emmasmith@email.com
+Olivia, Johnson, 402-111-2222, oliviajohnson@email.com
+Liam, Williams, 402-111-3333, liamwilliams@email.com
+
+CREATE TABLE MyTable0921Sare (id INT NOT NULL AUTO_INCREMENT, FIRST_NAME VARCHAR(30) NOT NULL,
+ LAST_NAME VARCHAR(30) NOT NULL, PHONE VARCHAR(30) NOT NULL, EMAIL VARVHAR(30) NOT NULL, 
+ PRIMARY KEY (ID));

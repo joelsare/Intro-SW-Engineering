@@ -1,0 +1,5 @@
+
+public interface IChromeDriver {
+	void getElement(String name);
+	void selectElement(String name);
+}

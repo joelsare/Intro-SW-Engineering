@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+/Users/joel/Downloads/4830/workspace4830/workspace4830-db-0909-sare/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3074678172.index
+/webproject/src

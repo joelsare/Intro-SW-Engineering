@@ -1,0 +1,7 @@
+
+public class StrategyTest {
+	int[] numbers = {4,2,5,1};
+	
+	Context context = new Context(new BubbleSorting());
+	
+}

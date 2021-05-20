@@ -1,0 +1,9 @@
+
+public class DatabaseExecutionProxy implements IDatabaseExecution {
+
+	public void executeQuery(String query) throws Exception {
+		// TODO Auto-generated method stub
+
+	}
+
+}

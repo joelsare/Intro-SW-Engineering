@@ -1,0 +1,2 @@
+127.0.0.1 - - [21/Nov/2020:13:36:43 -0600] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [21/Nov/2020:13:36:43 -0600] "GET /webproject-ex-0916-sare/simpleInsertHBSare.html HTTP/1.1" 304 -

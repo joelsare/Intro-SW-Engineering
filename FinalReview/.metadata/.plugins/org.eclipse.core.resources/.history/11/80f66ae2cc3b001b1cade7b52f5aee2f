@@ -1,0 +1,28 @@
+
+public class Subject implements ISubject {
+
+	@Override
+	public void upload(String title) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void subscribe(IObserver ob) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void unsub(IObserver ob) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

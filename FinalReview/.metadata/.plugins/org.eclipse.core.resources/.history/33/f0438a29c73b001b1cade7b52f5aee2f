@@ -1,0 +1,10 @@
+
+public class PaidByCredit extends PaymentSystem {
+
+	@Override
+	public void paidby() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

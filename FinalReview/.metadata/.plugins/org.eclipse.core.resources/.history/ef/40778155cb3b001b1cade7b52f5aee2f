@@ -1,0 +1,4 @@
+
+public class CommandActionManager {
+	Stack<ICommand> commands = new CommandActionManager();
+}

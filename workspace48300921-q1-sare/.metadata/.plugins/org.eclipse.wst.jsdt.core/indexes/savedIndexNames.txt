@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/joel/Downloads/4830/workspace4830/workspace48300921-q1-sare/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2964597551.index
+1588772939.index
+2314343039.index
+3458105112.index
+712099804.index
+40259314.index

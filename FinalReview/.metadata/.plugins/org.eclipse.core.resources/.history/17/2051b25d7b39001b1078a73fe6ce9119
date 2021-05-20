@@ -1,0 +1,10 @@
+
+public class Group implements SendMessage {
+
+	@Override
+	public void sendMessage(String message) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,7 @@
+
+public class Person implements SendMessage{
+	@Override
+	public void sendMessge(String message) {
+		System.out.println(message);
+	}
+}

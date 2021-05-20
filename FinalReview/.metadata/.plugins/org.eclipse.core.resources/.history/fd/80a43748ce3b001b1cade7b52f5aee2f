@@ -1,0 +1,10 @@
+
+public class InsertionSorting implements SortingStrategy {
+
+	@Override
+	public void sort(int[] numbers) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

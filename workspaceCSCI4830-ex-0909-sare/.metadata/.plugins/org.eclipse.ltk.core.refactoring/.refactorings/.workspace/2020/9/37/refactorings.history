@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;webproject&apos; to &apos;MyServletDBSare&apos;" description="Rename resource &apos;webproject&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/webproject" name="MyServletDBSare" stamp="1599698564778" updateReferences="true"/>
+</session>

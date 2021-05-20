@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;selenium-server-standalone-3.141.59.jar&apos; to &apos;apt-test/src&apos;&#x0A;- Original project: &apos;project_webapp_testing&apos;&#x0A;- Destination element: &apos;apt-test/src&apos;&#x0A;- Original element: &apos;selenium-server-standalone-3.141.59.jar&apos;" description="Copy file" destination="=apt-test/src" element1="lib/selenium-server-standalone-3.141.59.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1601336011929" units="0" version="1.0"/>
+</session>

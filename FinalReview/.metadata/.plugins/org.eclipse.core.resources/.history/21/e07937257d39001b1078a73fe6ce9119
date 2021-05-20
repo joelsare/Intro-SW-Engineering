@@ -1,0 +1,16 @@
+
+public class WebDriverAdapter implements IChromeDriver {
+
+	@Override
+	public void getElement(String name) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void selectElement(String name) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,10 @@
+
+public class ProxyTest {
+
+	public static void main(String[] args) {
+		
+		DatabaseExecutionProxy dbproxy1 = new DatabaseExecutionProxy("admin", "1234");
+		
+	}
+
+}

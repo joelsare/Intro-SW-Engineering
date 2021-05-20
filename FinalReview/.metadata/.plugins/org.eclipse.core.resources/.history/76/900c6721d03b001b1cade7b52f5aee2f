@@ -1,0 +1,10 @@
+
+public class Computer {
+	private String cpu;
+	private String os;
+	private String screensize;
+	private String color;
+	private int ram;
+	private int harddisk;
+
+}

@@ -1,0 +1,3 @@
+url=jdbc:mysql://ec2-3-15-162-31.us-east-2.compute.amazonaws.com:3306/myDB
+user=joelsare remote
+password=chance915

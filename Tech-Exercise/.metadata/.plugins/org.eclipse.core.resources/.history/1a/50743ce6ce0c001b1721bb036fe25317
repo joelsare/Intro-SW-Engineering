@@ -1,0 +1,25 @@
+<html>
+<head>
+</head>
+
+<body>
+<header>
+<h1> Search To Do's Here </h1>
+</header>
+
+<nav>
+<a href="/TechExercise/simpleFormInsert.html">Insert Data</a> <br>
+</nav>
+
+<section>
+	
+	<form action="SimpleFormSearch" method="POST">
+	
+		Todo keyword: <input type="text" name="keyword"> <br />
+		
+		<input type="submit" value="Search" />
+	</form>
+
+</section>
+</body>
+</html>

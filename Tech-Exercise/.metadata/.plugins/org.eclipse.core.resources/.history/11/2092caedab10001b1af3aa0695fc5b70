@@ -1,0 +1,28 @@
+<html>
+<head>
+
+</head>
+
+<body>
+<header>
+<h1> Insert To Do Here </h1>
+</header>
+	<form action="SimpleFormSearch" method="POST">
+		<input type="submit" value="Search Data" />
+	</form>
+<nav>
+<a href="/TechExercise/simpleFormSearch.html">Search Data</a> <br> <br>
+</nav>
+<section>
+	
+	<form action="SimpleFormInsert" method="POST">
+	
+		To do: <input type="text" name="userName"> <br />
+		Tag: <input type="text" name="email"> <br />
+		
+		<input type="submit" value="Submit" />
+	</form>
+
+</section>
+</body>
+</html>

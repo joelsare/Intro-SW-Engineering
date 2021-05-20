@@ -1,0 +1,11 @@
+127.0.0.1 - - [16/Dec/2020:12:33:14 -0600] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:16 -0600] "GET /JojoShack/searchTest.jsp HTTP/1.1" 200 953
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:16 -0600] "GET /JojoShack/main.css HTTP/1.1" 200 953
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:19 -0600] "GET /JojoShack/searchTest.jsp HTTP/1.1" 200 953
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:20 -0600] "GET /JojoShack/main.css HTTP/1.1" 200 953
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:26 -0600] "POST /JojoShack/SearchListing HTTP/1.1" 200 6197
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:26 -0600] "GET /JojoShack/main.css HTTP/1.1" 200 953
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:53 -0600] "POST /JojoShack/SearchListing HTTP/1.1" 200 6197
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:53 -0600] "GET /JojoShack/main.css HTTP/1.1" 200 953
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:56 -0600] "GET /JojoShack/AllListings HTTP/1.1" 200 6214
+0:0:0:0:0:0:0:1 - - [16/Dec/2020:12:33:56 -0600] "GET /JojoShack/main.css HTTP/1.1" 200 953

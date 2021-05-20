@@ -1,0 +1,9 @@
+
+public class UserCreationTest {
+
+	public static void main(String[] args) {
+		User user = new BusinessUser();
+		user.createUser();
+	}
+
+}

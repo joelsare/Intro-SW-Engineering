@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="passwordStores.location.x" value="272"/>
+	<item key="passwordStores.location.y" value="23"/>
+	<item key="passwordStores.size.x" value="897"/>
+	<item key="passwordStores.size.y" value="564"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Revision" value="82"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Date" value="204"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Author" value="162"/>
+	<item key="HistoryTableProvider.SVNHistoryPage.Comment" value="406"/>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://github.com/Jojo-Shack/JojoShack.git"/>
+		</list>
+	</section>
+</section>

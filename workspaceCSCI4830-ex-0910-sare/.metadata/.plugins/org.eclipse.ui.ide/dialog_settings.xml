@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/Users/joel/Downloads/4830/workspace4830/workspaceCSCI4830-ex-0910-sare/webproject-ex-0910-sare"/>
+		<item value="/Users/joel/Downloads/4830/workspace4830/workspaceCSCI4830-ex-0910-sare/Servers"/>
+		<item value="/Users/joel/Downloads/4830/workspace4830/workspaceCSCI4830-ex-0910-sare/webproject"/>
+	</list>
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="true"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/Users/joel/Downloads/4830/workspace4830/workspaceCSCI4830-ex-0910-sare/webproject-ex-0919-sare"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="/Users/joel/Downloads/webproject.zip"/>
+		</list>
+	</section>
+</section>

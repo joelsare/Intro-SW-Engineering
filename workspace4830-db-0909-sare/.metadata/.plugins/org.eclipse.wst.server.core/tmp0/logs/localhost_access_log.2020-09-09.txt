@@ -1,0 +1,10 @@
+127.0.0.1 - - [09/Sep/2020:19:09:46 -0500] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:09:47 -0500] "GET /webproject/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:10:46 -0500] "GET /webproject/ HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:11:43 -0500] "GET /webproject/simpleFormSearch.html HTTP/1.1" 200 890
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:11:48 -0500] "POST /webproject/SimpleFormSearch HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:12:10 -0500] "POST /webproject/SimpleFormSearch HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:13:20 -0500] "POST /webproject/SimpleFormSearch HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:13:33 -0500] "POST /webproject/SimpleFormSearch HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:15:24 -0500] "POST /webproject/SimpleFormSearch HTTP/1.1" 200 180
+0:0:0:0:0:0:0:1 - - [09/Sep/2020:19:15:29 -0500] "POST /webproject/SimpleFormSearch HTTP/1.1" 200 180

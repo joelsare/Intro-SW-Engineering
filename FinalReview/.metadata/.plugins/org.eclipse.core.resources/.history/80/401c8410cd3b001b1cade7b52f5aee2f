@@ -1,0 +1,31 @@
+import java.util.List;
+import java.util.ArrayList;
+
+public class Subject implements ISubject {
+
+	List<IObserver> subscribers = new ArrayList<>();
+	
+	@Override
+	public void upload(String title) {
+		System.out.println("Upload "+ title);
+	}
+
+	@Override
+	public void subscribe(IObserver ob) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void unsub(IObserver ob) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
